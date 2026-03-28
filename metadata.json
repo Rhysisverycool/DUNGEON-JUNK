@@ -1,0 +1,5 @@
+{
+  "name": "Pixel Platformer Engine",
+  "description": "A simple pixel art platformer engine with walking, jumping, and dashing mechanics.",
+  "requestFramePermissions": []
+}
